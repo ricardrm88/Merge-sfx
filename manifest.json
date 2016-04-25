@@ -18,8 +18,7 @@
   ],
   "browser_action": {
       "default_title": "Merge sfx",
-      "default_icon": "key.png",
-      "default_popup": "popup.html" 
+      "default_icon": "key.png"
   },
   "icons": {
     "16": "key.png"
